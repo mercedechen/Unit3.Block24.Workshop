@@ -41,6 +41,13 @@
   color: #888;
 }
 
+.feature {
+  background-color: lightgray;
+  border-radius: 10px;
+  padding: 50px;
+}
+
 ul {
   list-style-type: none;
+  padding: 0;
 }
